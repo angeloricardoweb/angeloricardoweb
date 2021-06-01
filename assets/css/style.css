@@ -1,0 +1,18 @@
+/* reset */
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+/* corpo */
+#container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    width: 100vw;
+    height: 100vh;
+}
+
+.bem-vindo{
+    border-radius: 10px;
+    background-color: cadetblue;
+    padding: 30px 90px;
+}
