@@ -3,7 +3,7 @@
 <h3>😄Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Engenharia de Computação** no <a href="https://portal.ufpa.br/">Universidade Federal do Pará - UFPA</a>.
+- 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://portal.ufpa.br/">Universidade Federal do Pará - UFPA</a>.
 - 💼 &nbsp; Trabalhando como **Dev Front-end Freelancer** na <a href="https://angeloricardo.tech/">angeloricardo.tech</a>
 - 💼 &nbsp; & como **Diretor de Projetos** na <a href="https://brainstormjr.com.br/">Empresa Junior Brainstorm Engenharia</a>
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJS, React Native e Sass**.
