@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=angeloengcomp&color=006bed)
+<!-- ![](https://komarev.com/ghpvc/?username=angeloengcomp&color=006bed) -->
 
 <h3>😄Sobre mim </h3>
 
