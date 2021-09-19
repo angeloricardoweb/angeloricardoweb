@@ -13,12 +13,13 @@
 **Aplicações e Dados**
 
  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=fff)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=Sass&logoColor=e373f1)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-    ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
+  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=Bootstrap&logoColor=6f42c1)
+  ![Laravel](https://img.shields.io/badge/-Laravel-fff?style=flat&logo=Laravel&logoColor=ff2d20)
+  ![SASS](https://img.shields.io/badge/-SASS-fff?style=flat&logo=Sass&logoColor=e373f1)
+  ![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=0d1117)
+  ![React Native](https://img.shields.io/badge/-React%20Native-fff?style=flat&logo=react&logoColor=0d1117)
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-fff?style=flat&logo=styled-components)
 
 
 
