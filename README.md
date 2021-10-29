@@ -13,12 +13,12 @@
 
  
   
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=Bootstrap&logoColor=6f42c1)
-  ![Laravel](https://img.shields.io/badge/-Laravel-fff?style=flat&logo=Laravel&logoColor=ff2d20)
-  ![SASS](https://img.shields.io/badge/-SASS-fff?style=flat&logo=Sass&logoColor=e373f1)
-  ![React](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=0d1117)
-  ![React Native](https://img.shields.io/badge/-React%20Native-fff?style=flat&logo=react&logoColor=0d1117)
-  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-fff?style=flat&logo=styled-components)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-67258d?style=flat&logo=Bootstrap&logoColor=)
+  ![Laravel](https://img.shields.io/badge/-Laravel-67258d?style=flat&logo=Laravel&logoColor=)
+  ![SASS](https://img.shields.io/badge/-SASS-67258d?style=flat&logo=Sass&logoColor=)
+  ![React](https://img.shields.io/badge/-React-67258d?style=flat&logo=react&logoColor=)
+  ![React Native](https://img.shields.io/badge/-React%20Native-67258d?style=flat&logo=react&logoColor=)
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-67258d?style=flat&logo=styled-components)
 
 
 
