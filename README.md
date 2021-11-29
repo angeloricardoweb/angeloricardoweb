@@ -38,12 +38,12 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeloengcomp&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angeloricardoweb&show_icons=true&theme=tokyonight)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angeloengcomp&theme=tokyonight&border=ffffff" alt="Streak" title="Streak" width="440px" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angeloricardoweb&theme=tokyonight&border=ffffff" alt="Streak" title="Streak" width="440px" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloengcomp&layout=compact&theme=tokyonight)](https://github.com/angeloengcomp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloricardoweb&layout=compact&theme=tokyonight)](https://github.com/angeloricardoweb/github-readme-stats)
 
 
 
@@ -51,5 +51,5 @@
 
 [![Linkedin: Angelo Ricardo](https://img.shields.io/badge/-AngeloRicardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-ricardo-8583881a1/)](https://www.linkedin.com/in/angelo-ricardo-8583881a1/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@angeloricardo.tech-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@angeloricardo.tech)](mailto:contato@angeloricardo.tech)
-[![GitHub Angelo Ricardo]( https://img.shields.io/github/followers/angeloengcomp?label=follow&style=social)](https://github.com/angeloengcomp)
-![](https://komarev.com/ghpvc/?username=angeloengcomp&color=006bed)
+[![GitHub Angelo Ricardo]( https://img.shields.io/github/followers/angeloricardoweb?label=follow&style=social)](https://github.com/angeloricardoweb)
+![](https://komarev.com/ghpvc/?username=angeloricardoweb&color=006bed)
