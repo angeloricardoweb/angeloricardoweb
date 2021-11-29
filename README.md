@@ -52,4 +52,4 @@
 [![Linkedin: Angelo Ricardo](https://img.shields.io/badge/-AngeloRicardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-ricardo-8583881a1/)](https://www.linkedin.com/in/angelo-ricardo-8583881a1/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@angeloricardo.tech-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@angeloricardo.tech)](mailto:contato@angeloricardo.tech)
 [![GitHub Angelo Ricardo]( https://img.shields.io/github/followers/angeloricardoweb?label=follow&style=social)](https://github.com/angeloricardoweb)
-![](https://komarev.com/ghpvc/?username=angeloricardoweb&color=006bed)
+
