@@ -1,6 +1,6 @@
 
 
-<h3>😄Sobre mim </h3>
+<h3>Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://portal.ufpa.br/">Universidade Federal do Pará - UFPA</a>.
