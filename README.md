@@ -7,18 +7,12 @@
 - 💼 &nbsp; Trabalhando como **Dev Front-end Pleno** na <a href="https://www.bredi.com.br/">Bredi - Criação Web sob medida</a>
 - 🌱 &nbsp; Aprendendo mais sobre **NextJS, NodeJS, MongoDB e AdonisJS**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Principais Tecnologias que trabalho </h3>
 
-**Aplicações e Dados**
-
+ <img alt="" src="https://img.shields.io/badge/Next.JS-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/React.JS-blueviolet.svg?style=for-the-badge&logo=React&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/React%20Native-blueviolet.svg?style=for-the-badge&logo=React&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Laravel-blueviolet.svg?style=for-the-badge&logo=Laravel&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Typescript-blueviolet.svg?style=for-the-badge&logo=Typescript&labelColor=000000&logoWidth=20">  
  
-  
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-67258d?style=flat&logo=Bootstrap&logoColor=)
-  ![Laravel](https://img.shields.io/badge/-Laravel-67258d?style=flat&logo=Laravel&logoColor=)
-  ![SASS](https://img.shields.io/badge/-SASS-67258d?style=flat&logo=Sass&logoColor=)
-  ![React](https://img.shields.io/badge/-React-67258d?style=flat&logo=react&logoColor=)
-  ![React Native](https://img.shields.io/badge/-React%20Native-67258d?style=flat&logo=react&logoColor=)
-  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-67258d?style=flat&logo=styled-components)
+  <img alt="" src="https://img.shields.io/badge/Tailwindcss-blueviolet.svg?style=for-the-badge&logo=Tailwindcss&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&labelColor=000000&logoWidth=20"> <img alt="" src="https://img.shields.io/badge/Styled%20Components-blueviolet.svg?style=for-the-badge&logo=styled-components&labelColor=000000&logoWidth=20">  
+
 
 
 
