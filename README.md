@@ -9,7 +9,7 @@
 
 <h3> :rocket: &nbsp;Principais Tecnologias que trabalho </h3>
 
- <img alt="" src="https://img.shields.io/badge/Next.JS-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/React.JS-blueviolet.svg?style=for-the-badge&logo=React&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/React%20Native-blueviolet.svg?style=for-the-badge&logo=React&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Laravel-blueviolet.svg?style=for-the-badge&logo=Laravel&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Typescript-blueviolet.svg?style=for-the-badge&logo=Typescript&labelColor=000000&logoWidth=20">  
+ <img alt="" src="https://img.shields.io/badge/Next.JS-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/React.JS-blueviolet.svg?style=for-the-badge&logo=React&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/React%20Native-blueviolet.svg?style=for-the-badge&logo=React&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Laravel-blueviolet.svg?style=for-the-badge&logo=Laravel&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Node.Js-blueviolet.svg?style=for-the-badge&logo=Node.Js&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Typescript-blueviolet.svg?style=for-the-badge&logo=Typescript&labelColor=000000&logoWidth=20">  
  
   <img alt="" src="https://img.shields.io/badge/Tailwindcss-blueviolet.svg?style=for-the-badge&logo=Tailwindcss&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&labelColor=000000&logoWidth=20"> <img alt="" src="https://img.shields.io/badge/Styled%20Components-blueviolet.svg?style=for-the-badge&logo=styled-components&labelColor=000000&logoWidth=20">  
 
@@ -21,6 +21,8 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+    ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+    ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)
 
 **Ferramentas de Desenvolvimento**
 
