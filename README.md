@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://portal.ufpa.br/">Universidade Federal do Pará - UFPA</a>.
-- 💼 &nbsp; Trabalhando como **Dev Front-end Pleno** na <a href="https://www.bredi.com.br/">Bredi - Criação Web sob medida</a>
+- 💼 &nbsp; Trabalhando como **Dev Front-end Pleno** na Agrotools
 - 🌱 &nbsp; Aprendendo mais sobre **NodeJS, MongoDB e AdonisJS**.
 
 <h3> :rocket: &nbsp;Principais Tecnologias que trabalho </h3>
