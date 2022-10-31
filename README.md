@@ -39,9 +39,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angeloricardoweb&theme=tokyonight&border=ffffff" alt="Streak" title="Streak" width="440px" />
  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloricardoweb&layout=compact&theme=tokyonight)](https://github.com/angeloricardoweb/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloricardoweb&layout=compact&theme=tokyonight)](https://github.com/angeloricardoweb/github-readme-stats)
 
-
+ -->
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
