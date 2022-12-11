@@ -3,9 +3,9 @@
 <h3>Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://portal.ufpa.br/">Universidade Federal do Pará - UFPA</a>.
-- 💼 &nbsp; Trabalhando como **Lider Front-end** na Bredi Tecnologia Digital
-- 🌱 &nbsp; Aprendendo mais sobre **NodeJS, MongoDB e AdonisJS**.
+- 🎓 &nbsp; **Engenharia de Computação**.
+- 💼 &nbsp; **Lider Front-end** na Bredi Tecnologia Digital
+- 🌱 &nbsp; Aprendendo mais sobre **NodeJS e MongoDB**.
 
 <h3> :rocket: &nbsp;Principais Tecnologias que trabalho </h3>
 
@@ -44,6 +44,9 @@
  -->
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+angeloengcomp@gmail.com <br>
+(91) 98449-9714
 
 [![Linkedin: Angelo Ricardo](https://img.shields.io/badge/-AngeloRicardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-ricardo-8583881a1/)](https://www.linkedin.com/in/angelo-ricardo-8583881a1/)
 [![GitHub Angelo Ricardo]( https://img.shields.io/github/followers/angeloricardoweb?label=follow&style=social)](https://github.com/angeloricardoweb)
