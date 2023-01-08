@@ -5,7 +5,6 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; **Engenharia de Computação**.
 - 💼 &nbsp; **Lider Front-end** na Bredi Tecnologia Digital
-- 🌱 &nbsp; Aprendendo mais sobre **NodeJS e MongoDB**.
 
 <h3> :rocket: &nbsp;Principais Tecnologias que trabalho </h3>
 
