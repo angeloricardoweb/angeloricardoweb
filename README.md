@@ -1,12 +1,6 @@
 
 
-<h3>Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; **Engenharia de Computação**.
-- 💼 &nbsp; **Lider Front-end** na Bredi Tecnologia Digital
-
-<h3> :rocket: &nbsp;Principais Tecnologias que trabalho </h3>
+<h3> :rocket: &nbsp;Main Techs </h3>
 
  <img alt="" src="https://img.shields.io/badge/Next.JS-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/React.JS-blueviolet.svg?style=for-the-badge&logo=React&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/React%20Native-blueviolet.svg?style=for-the-badge&logo=React&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Laravel-blueviolet.svg?style=for-the-badge&logo=Laravel&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Node.Js-blueviolet.svg?style=for-the-badge&logo=Node.Js&labelColor=000000&logoWidth=20">  <img alt="" src="https://img.shields.io/badge/Typescript-blueviolet.svg?style=for-the-badge&logo=Typescript&labelColor=000000&logoWidth=20">  
  
