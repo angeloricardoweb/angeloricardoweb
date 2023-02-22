@@ -31,9 +31,9 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-angeloricardojs@gmail.com <br>
+angeloengcomp@gmail.com <br>
 (91) 98449-9714 -->
 
-[![Linkedin: Angelo Ricardo](https://img.shields.io/badge/-AngeloRicardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-ricardo-8583881a1/)](https://www.linkedin.com/in/angelo-ricardo-8583881a1/)
+[![Linkedin: Angelo Ricardo](https://img.shields.io/badge/-AngeloRicardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angeloricardoweb/)](https://www.linkedin.com/in/angelo-ricardo-8583881a1/)
 [![GitHub Angelo Ricardo]( https://img.shields.io/github/followers/angeloricardoweb?label=follow&style=social)](https://github.com/angeloricardoweb)
 
